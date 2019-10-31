@@ -1,0 +1,23 @@
+{
+  "name": "tax-calc",
+  "version": "1.0.0",
+  "description": "Tax calculation functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bengrunfeld/tax-calc.git"
+  },
+  "keywords": [
+    "tax",
+    "calculations"
+  ],
+  "author": "Ben Grunfeld",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bengrunfeld/tax-calc/issues"
+  },
+  "homepage": "https://github.com/bengrunfeld/tax-calc#readme"
+}
